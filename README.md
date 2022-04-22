@@ -8,7 +8,7 @@ O programa inicia lendo um labirinto dos labirintos iniciados no codigo(Com said
 
 <p>O game inicia com o labirinto selecionado + os pontos de entrada e saida ja definidos </p>
 <br>
-<img src="">
+<img src="https://github.com/andreysilveira/labirinto/blob/main/img/Untitled1.png">
 <br>
 
 
@@ -16,14 +16,14 @@ O programa inicia lendo um labirinto dos labirintos iniciados no codigo(Com said
 
 <p>Ao decorrer do game o programa vai mostrando as coordenadas e exibindo as opcoes de avanco, mesmo que a proxima casa seja parede. Se for parede ele automaticamente ja joga pra proxima casa e continua avancando</p>
 <br>
-<img src="">
+<img src="https://github.com/andreysilveira/labirinto/blob/main/img/Untitled2.png">
 <br>
 
 
 <hr>
 <p>Por fim ele vai testando ate realmente chegar o destino, se tiver saida ele da resultado OK se nao ele devolve o negativo.</p>
 <br>
-<img src="">
+<img src="https://github.com/andreysilveira/labirinto/blob/main/img/Untitled3.png">
 <br>
 
 
